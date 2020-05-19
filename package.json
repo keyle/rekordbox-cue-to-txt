@@ -1,0 +1,8 @@
+{
+  "name": "rekordbox-cue-to-txt",
+  "version": "0.9.0",
+  "description": "Rekordbox Playlist CUE file converter to TXT (from recordings)",
+  "main": "cue-parser.js",
+  "author": "keyle",
+  "license": "MIT"
+}
