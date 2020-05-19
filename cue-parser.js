@@ -29,7 +29,7 @@ for (let i = 0; i < titles.length; i++) {
     const artist = artists[i][1];
     const time = indices[i][1];
 
-    output += `${time}: ${artist} - ${title}\r\n`;
+    output += `${time} : ${artist} - ${title}\r\n`;
 }
 
 console.log(output);
