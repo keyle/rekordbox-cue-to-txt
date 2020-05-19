@@ -10,3 +10,5 @@ Will output a .txt file in the same folder in this format:
     00:03:22: Artist Name 2 - Title of Track
 
 Tested against Rekordbox 5 cue sheets on MacOS.
+
+MIT License.
