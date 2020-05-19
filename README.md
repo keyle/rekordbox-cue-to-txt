@@ -1,6 +1,6 @@
-### Rekordbox Cue Parser
+### Rekordbox CUE file parser and converter
 
-Parses cue files from rekordbox to produce readable playlists
+Parses cue files from rekordbox's recordings to produce readable playlists
 
     node cue-parser.js <path to cue file>
 
