@@ -2,7 +2,7 @@
 
 Parses cue files from rekordbox to produce readable playlists
 
-    `node cue-parser.js <path to cue file>``
+    node cue-parser.js <path to cue file>
 
 Will output a .txt file in the same folder in this format:
 
